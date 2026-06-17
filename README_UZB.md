@@ -1,3 +1,15 @@
+
+---
+
+## Loyiha haqida
+Bu **School 21** loyihasi. Men ushbu loyihada o‘yin dvigateli (game engine) mantig‘ini ishlab chiqishda ishtirok etdim.
+
+* **Mening hissam:** `src` katalogidagi asosiy o‘yin mexanikasi va fizika mantig‘ini to‘liq o‘zim amalga oshirdim.
+* **Texnologiyalar:** C, Makefile.
+* **Rolim:** Backend / O‘yin dvigateli dasturchisi.
+
+
+
 # D05P01. Pong o‘yini
 
 Annotatsiya: ushbu loyiha siz va jamoangizga birgalikda Pong o‘yinini yaratish imkonini beradi.
