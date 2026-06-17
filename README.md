@@ -1,6 +1,17 @@
-<<<<<<< HEAD
+---
+
+## About this project
+This is a **School 21** project. I participated in the development of the Pong game engine logic.
+
+* **My Contribution:** I implemented the core game mechanics and physics logic in the `src` directory.
+* **Tech Stack:** C, Makefile.
+* **Role:** Backend/Game Engine Developer.
+
+
+
+
 # pong-game
-=======
+
 # P01D06. Pong Game
 
 Summary: This project will allow you to implement the game Pong together with your team.
